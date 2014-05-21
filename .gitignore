@@ -1,4 +1,5 @@
 # Object files
+*.mod
 *.o
 *.ko
 *.obj
@@ -21,3 +22,7 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Cloud 9 files
+
+.c9/**
